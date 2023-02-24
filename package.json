@@ -1,0 +1,31 @@
+{
+  "name": "urlshortener-firebase",
+  "version": "1.0.0",
+  "description": "Url shortener using firebase and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyaanp/urlshortener-firebase.git"
+  },
+  "keywords": [
+    "Node.js",
+    "url",
+    "shortener",
+    "firebase",
+    "url",
+    "shortener"
+  ],
+  "author": "Shreyaan Pradhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyaanp/urlshortener-firebase/issues"
+  },
+  "homepage": "https://github.com/Shreyaanp/urlshortener-firebase#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "firebase-admin": "^11.5.0"
+  }
+}
